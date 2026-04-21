@@ -1,0 +1,1 @@
+-IC:/COLLEG~2/TT/SMARTS~1/build/DESKTO~1/SMARTS~1/include -isystem C:/Qt/6.11.0/mingw_64/include/QtCore -isystem C:/Qt/6.11.0/mingw_64/include -isystem "C:/Qt/6.11.0/mingw_64/mkspecs/win32-g++" -isystem C:/Qt/6.11.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.11.0/mingw_64/include/QtGui

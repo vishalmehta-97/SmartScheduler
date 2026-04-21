@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\SmartScheduler.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\SmartScheduler.dir/objects.a @CMakeFiles\SmartScheduler.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\SmartScheduler.dir/objects.a -Wl,--no-whole-archive -o SmartScheduler.exe -Wl,--out-implib,libSmartScheduler.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SmartScheduler.dir\linkLibs.rsp
