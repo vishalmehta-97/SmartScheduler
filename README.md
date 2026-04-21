@@ -4,12 +4,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your screenshots here)*
-
----
-
 ## ✨ Features
 
 ### 📅 Matrix Timetable
