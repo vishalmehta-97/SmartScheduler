@@ -216,8 +216,8 @@ lrelease SmartScheduler_hi_IN.ts
 ---
 
 ## 👨‍💻 Author
-
-**Karan Singh**  
+**Vishal Mehta**
+**Karan Singh**
 MCA — Data Science  
 University Institute of Computing, Chandigarh University  
 
